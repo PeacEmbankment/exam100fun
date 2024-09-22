@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>教仔 &#8211; 100分試題</title>
+	<atom:link href="https://exam100fun.com/?feed=rss2&#038;cat=41" rel="self" type="application/rss+xml" />
+	<link>https://exam100fun.com</link>
+	<description>實攞一百分</description>
+	<lastBuildDate>Wed, 25 Nov 2020 13:53:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.15</generator>
+
+<image>
+	<url>https://exam100fun.com/wp-content/uploads/2020/10/fun.png</url>
+	<title>教仔 &#8211; 100分試題</title>
+	<link>https://exam100fun.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>$100行動</title>
+		<link>https://exam100fun.com/?p=457</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2020 13:53:32 +0000</pubDate>
+				<category><![CDATA[教仔]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=457</guid>
+
+					<description><![CDATA[獎咩俾小朋友好？]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>有咩嘢俾零用錢時父母係唔可以做？</title>
+		<link>https://exam100fun.com/?p=418</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2020 10:50:40 +0000</pubDate>
+				<category><![CDATA[教仔]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=418</guid>
+
+					<description><![CDATA[要提醒吓家長們，對於零用錢，有幾點係唔可以做。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>小學生每日俾幾多零用錢佢好？</title>
+		<link>https://exam100fun.com/?p=382</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2020 11:19:15 +0000</pubDate>
+				<category><![CDATA[教仔]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=382</guid>
+
+					<description><![CDATA[咁我會諗俾零用錢佢係為咗乜？]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>小朋友幫手做家務，應唔應該俾錢作為獎勵？</title>
+		<link>https://exam100fun.com/?p=326</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2020 11:20:06 +0000</pubDate>
+				<category><![CDATA[教仔]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=326</guid>
+
+					<description><![CDATA[你覺得俾錢做獎勵好唔好？]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

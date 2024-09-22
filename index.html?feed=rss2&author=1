@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小編 &#8211; 100分試題</title>
+	<atom:link href="https://exam100fun.com/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
+	<link>https://exam100fun.com</link>
+	<description>實攞一百分</description>
+	<lastBuildDate>Tue, 27 Sep 2022 13:06:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.15</generator>
+
+<image>
+	<url>https://exam100fun.com/wp-content/uploads/2020/10/fun.png</url>
+	<title>小編 &#8211; 100分試題</title>
+	<link>https://exam100fun.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1對1 廣東話 網上 International A-level (IAL)補習</title>
+		<link>https://exam100fun.com/?p=666</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2022 12:58:43 +0000</pubDate>
+				<category><![CDATA[Exam100Fun]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=666</guid>
+
+					<description><![CDATA[點解搵我補？]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>家長點樣提升子女數學「運算能力」？</title>
+		<link>https://exam100fun.com/?p=627</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 12:52:42 +0000</pubDate>
+				<category><![CDATA[數學科]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=627</guid>
+
+					<description><![CDATA[小五小六階段嘅運算能力，主要係快而準咁計....有幾點各位家長要留意]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>999632 之 數學科</title>
+		<link>https://exam100fun.com/?p=620</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 12:51:18 +0000</pubDate>
+				<category><![CDATA[Exam100Fun]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=620</guid>
+
+					<description><![CDATA[如果 aim at 上一個 band，可以從數學入手。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>家長點樣幫仔女答「應用題」</title>
+		<link>https://exam100fun.com/?p=605</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 11:04:51 +0000</pubDate>
+				<category><![CDATA[數學科]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=605</guid>
+
+					<description><![CDATA[課室有限制，一定要有家庭及生活知識先答到應用題]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>[同高小嘅仔女玩咩好] 打 Bridge</title>
+		<link>https://exam100fun.com/?p=610</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2020 13:18:11 +0000</pubDate>
+				<category><![CDATA[課外活動]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=610</guid>
+
+					<description><![CDATA[你知唔知 Bill Gates (比爾蓋茲) 同 Warren Buffett (畢菲特) 會一齊玩嘅遊戲係咩？]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>計開大餅，突然問毫子。畀人陰，好難小心喎！</title>
+		<link>https://exam100fun.com/?p=327</link>
+		
+		<dc:creator><![CDATA[小編]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 08:30:17 +0000</pubDate>
+				<category><![CDATA[數學科]]></category>
+		<guid isPermaLink="false">https://exam100fun.com/?p=327</guid>
+
+					<description><![CDATA[有個好悶嘅方法執返呢D分]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
